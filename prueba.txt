@@ -1,9 +1,0 @@
-esto es una prueba para revisar el comando git reset --soft
-
-este es el parrafo 2 de la prueba
-
-este es el parrafo 3 para prueba 
-
-este es el parrafo 4 para prueba 
-
-este es el parrafo 5 para prueba
